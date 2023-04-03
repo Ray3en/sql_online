@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sql_online/static/css/main.608b256b.css",
-    "main.js": "/sql_online/static/js/main.35ec2988.js",
+    "main.css": "/sql_online/static/css/main.fc153033.css",
+    "main.js": "/sql_online/static/js/main.1c4964ae.js",
     "sql-wasm.wasm": "/sql_online/sql-wasm-057823fecaede6350cf9941c7d4c7ce3.wasm",
-    "static/media/table1.svg": "/sql_online/static/media/table1.d78b16582d6828e92f4a4ca21ab64573.svg",
+    "static/media/table1.svg": "/sql_online/static/media/table1.80a22cc6ee08549c134bc14872c09328.svg",
     "index.html": "/sql_online/index.html"
   },
   "entrypoints": [
-    "static/css/main.608b256b.css",
-    "static/js/main.35ec2988.js"
+    "static/css/main.fc153033.css",
+    "static/js/main.1c4964ae.js"
   ]
 }
